@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623137910 source:c:\users\lenovo\documents\programming\our progect\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+
+1623137910 source:c:\users\lenovo\desktop\our progect\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+
